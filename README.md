@@ -1,7 +1,7 @@
 # Olá, eu sou a Mariana Santos Silva 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Mariana%20Santos&fontSize=90" />
+  <img src="./minha-foto.png" width="100%">
 </p>
 
 ### 🚀 Cursando Ciências da Computação | Game Developer
