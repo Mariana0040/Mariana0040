@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Minhas Tecnologias
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,py,unity,visualstudio,github&perline=8" />
 </p>
 
