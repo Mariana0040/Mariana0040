@@ -4,12 +4,12 @@
   <img src="./minha-foto.png" width="100%">
 </p>
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
+---
 
 ### 🚀 Cursando Ciência da Computação | Game Developer
 *Transformando ideias em formatos reais e divertidos.*
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
+---
 
 ### 🌸 Sobre Mim
 - 🎮 **Atuação:** Desenvolvedora com foco em Games (Unity/C#).
@@ -17,7 +17,7 @@
 - 🎯 **Especialidade:** Lógica de programação em **C#** e desenvolvimento de mecânicas.
 - 🎨 **Interesses:** Além de código, gosto de criar interfaces intuitivas e vibrantes.
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
+---
 
 ### 🛠️ Minhas Tecnologias
 <p align="left">
@@ -26,7 +26,7 @@
 
 > **Nota:** Meus repositórios atuais são focados em **C#**, onde aplico conceitos de Game Design e Arquitetura.
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
+---
 
 ### 📊 Estatísticas do GitHub
 
@@ -35,7 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana0040&layout=compact&title_color=ff007f&icon_color=ff007f&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" />
 </p>
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=FFB6C1&height=2&section=header" width="100%"/>
+---
 
 ### 📫 Vamos conversar?
 <p align="left">
