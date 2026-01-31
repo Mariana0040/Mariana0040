@@ -28,15 +28,14 @@
 
 ---
 
-### 📊 Visão Geral do meu GitHub
-*Os dados abaixo são atualizados automaticamente:*
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Card de Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana0040&show_icons=true&theme=rosepine&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas de Mariana" />
-  
-  <!-- Card de Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana0040&layout=compact&theme=rosepine&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+  <!-- Quadro de Estatísticas Gerais (Rosa/Vermelho) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana0040&show_icons=true&title_color=ff007f&icon_color=ff007f&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <!-- Quadro de Linguagens Mais Usadas (Rosa/Vermelho) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana0040&layout=compact&title_color=ff007f&icon_color=ff007f&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" />
 </p>
 
 ---
