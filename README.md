@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Cursando Ciência da Computação | Game Developer
+### 🚀 Cursando Ciências da Computação | Game Developer
 *Transformando ideias em formatos reais e divertidos.*
 
 ---
