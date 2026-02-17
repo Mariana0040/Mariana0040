@@ -28,15 +28,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana0040&show_icons=true&title_color=ff007f&icon_color=ff007f&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana0040&layout=compact&title_color=ff007f&icon_color=ff007f&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ### 📫 Vamos conversar?
 <p align="left">
   <a href="https://www.linkedin.com/in/mariana-santos-silva-470645360" target="_blank">
