@@ -21,7 +21,7 @@
 
 ### 🛠️ Minhas Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,unity,visualstudio,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,py,unity,godot,visualstudio,github&perline=8" />
 </p>
 
 > **Nota:** Meus repositórios atuais são focados em **C#**, onde aplico conceitos de Game Design e Arquitetura.
