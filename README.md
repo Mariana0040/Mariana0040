@@ -3,7 +3,7 @@
  <!--  <img src="jpg_4.png" width="50%" alt="Banner Mariana"> -->
 
   <h1> ✦ Mariana Santos Silva ✦ </h1>
-  <p><i>"Criando mundos e mecânicas entre o código e a estética."</i></p>
+  <p><i>"Transformando ideias em algo que realmente funciona."</i></p>
 
   <img src="https://komarev.com/ghpvc/?username=Mariana0040&color=0055ff&style=flat-square&label=VISITAS" alt="Views" />
 </div>
@@ -16,10 +16,10 @@
       <h2> 🌑 Sobre Mim </h2>
       <p>
         Sou estudante de <b>Ciência da Computação</b> e desenvolvedora de jogos focada em <b>Unity (C#)</b> e <b>Godot</b>. 
-        Gosto de unir a lógica pesada da programação com interfaces que tenham personalidade e estilo.
+        Gosto da <b>lógica</b> e do <b>código</b>: é sempre gratificante resolver um erro, seja uma '{' esquecida 😅 ou algo mais complexo.
       </p>
       <p>
-        🌌 <b>Foco:</b> Game Design, Arquitetura de Sistemas e UI/UX Vibrante.<br>
+        🌌 <b>Foco:</b> Game Design e Arquitetura de Sistemas.<br>
         💙 <b>Estética:</b> Apaixonada por designs minimalistas, escuros e modernos.
       </p>
     </td>
