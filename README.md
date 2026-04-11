@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Principal - Use a imagem que tem o coelhinho azul ou a boneca de óculos -->
-  <img src="jpg_4.png" width="50%" alt="Banner Mariana">
+ <!--  <img src="jpg_4.png" width="50%" alt="Banner Mariana"> -->
 
   <h1> ✦ Mariana Santos Silva ✦ </h1>
   <p><i>"Criando mundos e mecânicas entre o código e a estética."</i></p>
@@ -49,7 +49,7 @@
   <!-- Gráfico de dias seguidos (Streak) - Azul Royal -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariana0040&theme=tokyonight&hide_border=true&background=0D1117&ring=0055ff&fire=0055ff&currStreakLabel=0055ff" width="48%">
   <!-- Card de Linguagens - Azul Royal -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana0040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0055ff&text_color=ffffff" width="42%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?--> <!-- username=Mariana0040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0055ff&text_color=ffffff" width="42%"> -->
 </div>
 
 <hr>
