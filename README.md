@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Principal - Use a imagem que tem o coelhinho azul ou a boneca de óculos -->
-  <img src="jpg_4.png" width="100%" alt="Banner Mariana">
+  <img src="jpg_4.png" width="50%" alt="Banner Mariana">
 
   <h1> ✦ Mariana Santos Silva ✦ </h1>
   <p><i>"Criando mundos e mecânicas entre o código e a estética."</i></p>
